@@ -68,4 +68,4 @@ It was great practice for:
 ```
 ## 📸 Screenshots
 ## 🖥 Desktop View
-![Desktop View](images/img1.jpg?raw=true "Desktop View")
+![Desktop View](desktopView.png?raw=true "Desktop View")
