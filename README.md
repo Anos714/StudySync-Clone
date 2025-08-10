@@ -1,1 +1,67 @@
-StudySync Homepage Clone | HTML & CSSThis project is a pixel-perfect, fully responsive clone of the StudySync landing page. It was built from scratch using only HTML and CSS to master the fundamentals of modern front-end web development, with a strong emphasis on responsive design principles.🌟 About The ProjectThe goal of this project was to replicate the design and layout of a professional, real-world website. By focusing on a single page, I was able to dive deep into CSS layout techniques like Flexbox and Grid, and ensure the user experience is seamless across all devices, from mobile phones to desktop screens.Key Features:Semantic HTML5: Clean, well-structured, and accessible HTML markup.Modern CSS Styling: Styled with pure CSS3, utilizing Flexbox and Grid for robust and flexible layouts.Fully Responsive: Implemented with CSS Media Queries to adapt perfectly to any screen size, ensuring a consistent look and feel.Static Build: No JavaScript or frameworks were used, highlighting pure HTML/CSS capabilities.🛠️ Built WithHTML5CSS3CSS Media QueriesFlexbox & Grid🚀 Live DemoYou can view the live project here:https://your-username.github.io/your-repo-name/PurposeThis project was undertaken as a personal challenge to improve my front-end skills. It served as excellent practice for translating a design into functional code and mastering the art of responsive web design.
+# StudySync Homepage Clone | HTML & CSS
+
+A **pixel-perfect**, fully responsive clone of the **StudySync landing page**, built entirely from scratch using **HTML** and **CSS**. This project focuses on mastering **responsive design principles** and implementing modern CSS layout techniques.
+
+---
+
+## 🌟 About The Project
+
+The goal of this project was to **replicate the design and layout** of a professional, real-world website.  
+By working on a single-page layout, I was able to deeply explore:
+
+- CSS **Flexbox** & **Grid** for modern, flexible layouts  
+- **Responsive design** principles with CSS Media Queries  
+- Semantic and accessible **HTML5 markup**  
+
+This project ensures a **seamless user experience** across all devices — from mobile phones to large desktop screens.
+
+---
+
+## 🔑 Key Features
+
+- **Semantic HTML5** – Clean, well-structured, and accessible markup  
+- **Modern CSS Styling** – Pure CSS3 styling without frameworks  
+- **Flexbox & Grid** – For robust, adaptable layouts  
+- **Fully Responsive** – Optimized for all screen sizes with Media Queries  
+- **Static Build** – No JavaScript or frameworks; pure HTML & CSS  
+
+---
+
+## 🛠️ Built With
+
+- **HTML5**
+- **CSS3**
+- **CSS Media Queries**
+- **Flexbox**
+- **CSS Grid**
+
+---
+
+## 🚀 Live Demo
+
+🔗 **View the live project here:**  
+[Live Demo](https://your-username.github.io/your-repo-name/)
+
+---
+
+## 🎯 Purpose
+
+This project was undertaken as a **personal challenge** to sharpen my front-end development skills.  
+It was great practice for:
+
+- Translating a **design into code**
+- Perfecting **responsive web design**
+- Working with **pure HTML & CSS** without dependencies
+
+---
+
+## 📂 Project Structure
+
+```plaintext
+📦 StudySync-Clone
+ ┣ 📜 index.html
+ ┣ 📜 style.css
+ ┣ 📜 media.css
+ ┣ 📜 animation.css
+ ┣ 📂 images
+ ┗ 📜 README.md
