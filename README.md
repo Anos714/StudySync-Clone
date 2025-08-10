@@ -69,3 +69,6 @@ It was great practice for:
 ## 📸 Screenshots
 ## 🖥 Desktop View
 ![Desktop View](desktopView.png?raw=true "Desktop View")
+
+## 📱 Mobile View
+![Mobile View](MobileView.png?raw=true "Mobile View")
