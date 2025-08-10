@@ -68,4 +68,4 @@ It was great practice for:
 ```
 ## 📸 Screenshots
 ## 🖥 Desktop View
-![Alt text](images/img.jpg?raw=true "Optional Title")
+![Desktop View](images/img1.jpg?raw=true "Desktop View")
