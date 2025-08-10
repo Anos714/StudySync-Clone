@@ -65,3 +65,7 @@ It was great practice for:
  ┣ 📜 animation.css
  ┣ 📂 images
  ┗ 📜 README.md
+
+## 📸 Screenshots
+## 🖥 Desktop View
+![Alt text](images/img.jpg?raw=true "Optional Title")
