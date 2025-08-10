@@ -40,7 +40,7 @@ This project ensures a **seamless user experience** across all devices — from 
 ## 🚀 Live Demo
 
 🔗 **View the live project here:**  
-[Live Demo](https://your-username.github.io/your-repo-name/)
+[Live Demo](https://anos714.github.io/StudySync-Clone/)
 
 ---
 
